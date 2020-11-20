@@ -1,7 +1,7 @@
 {
-  "name": "My Domain Sample",
-  "description": "A simple example to brand your Salesforce My Domain",
-  "repository": "https://github.com/salesforceidentity/MyDomain-Sample",
+  "name": "sfdc-login-feed",
+  "description": "A simple example to brand your Salesforce login page",
+  "repository": "https://github.com/ericbaranowski/sfdc-login-feed",
   "website": "https://www.salesforce.com/platform/identity",
   "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
   "keywords": ["salesforce"],
